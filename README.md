@@ -82,7 +82,7 @@ Heatmaps: Correlation among numerical variables
 
 Pairplots: Relationships between price, reviews, and availability
 
-Key Insights
+✅*Key Insights*
 
 Pricing Trends: Manhattan listings are the most expensive; entire homes/apartments cost more than private/shared rooms.
 
@@ -94,4 +94,4 @@ Availability & Reviews: Listings with higher availability tend to attract more r
 
 Host Behavior: Some hosts manage multiple listings, indicating professional hosting activity.
 
-✅ Takeaway: The analysis provides a clear understanding of New York Airbnb trends, helping guests make informed choices and hosts optimize pricing and availability.
+Conclusion: The analysis provides a clear understanding of New York Airbnb trends, helping guests make informed choices and hosts optimize pricing and availability.
